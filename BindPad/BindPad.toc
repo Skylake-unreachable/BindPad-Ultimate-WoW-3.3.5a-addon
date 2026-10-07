@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: BindPad Ultimate
+## Version: 2.2.4
+## Author: original - Tageshi, ultimate - https://github.com/Skylake-unreachable/BindPad-Ultimate-WoW-3.3.5a-addon
+## Notes: BindPad - Keybinding UI for Items, Spells and Macroes. Drag anything into BindPad's slot and click it to bind a key.
+## SavedVariables: BindPadVars
+BindPad.xml
