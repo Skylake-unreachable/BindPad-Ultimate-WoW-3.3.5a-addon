@@ -1,5 +1,7 @@
 # BindPad Ultimate for WoW 3.3.5a — profile export in just a few clicks
 
+BindPad is an addon that allows you to expand your character's macro limit by creating macros directly within the addon using the /bp command. Please note that macros created via BindPad cannot be placed on your action bars.
+
 In the original BindPad for WoW 3.3.5a, transferring binds and macros between characters was extremely inconvenient. In the Ultimate version, you can now transfer macros and binds just like in WeakAuras: via an export string that can be imported in a single click.
 
 Important: Only personal (character-specific) macros and binds are transferred. Since common macros and binds in the original BindPad are easily moved by copying the settings file, this functionality remains unchanged in the Ultimate version.
